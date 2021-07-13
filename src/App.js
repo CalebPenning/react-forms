@@ -1,8 +1,8 @@
-import UserForm from './UserForm';
+import ShoppingList from './ShoppingList';
 import './App.css';
 
 const App = () => (
-  <UserForm />
+  <ShoppingList />
 )
 
 export default App;
